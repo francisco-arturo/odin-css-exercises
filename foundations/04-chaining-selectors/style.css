@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+/*     <div>
+      <img class="avatar proportioned" src="./images/pexels-katho-mutodo-8434791.jpg" alt="Woman with glasses">
+      <img class="avatar distorted" src="./images/pexels-andrea-piacquadio-3777931.jpg" alt="Man with surprised expression">
+    </div> */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
